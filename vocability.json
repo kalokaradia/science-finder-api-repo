@@ -1,6 +1,298 @@
 [
 	{
-		"name": "test",
-		"description": "bagus!!"
+		"name": "Atom",
+		"description": "Partikel terkecil dari suatu unsur yang masih memiliki sifat kimia unsur tersebut. Atom terdiri dari inti yang mengandung proton dan neutron, serta elektron yang mengorbit inti."
+	},
+	{
+		"name": "Molekul",
+		"description": "Gabungan dua atau lebih atom yang terikat bersama melalui ikatan kimia. Molekul adalah unit dasar dari senyawa kimia."
+	},
+	{
+		"name": "Fotosintesis",
+		"description": "Proses biokimia di mana tumbuhan, alga, dan beberapa bakteri mengubah energi matahari menjadi energi kimia dalam bentuk glukosa, sambil menghasilkan oksigen sebagai produk sampingan."
+	},
+	{
+		"name": "Gravitasi",
+		"description": "Gaya tarik-menarik yang ada di antara dua benda dengan massa. Gravitasi menyebabkan benda jatuh ke tanah dan mempengaruhi orbit planet dan bulan."
+	},
+	{
+		"name": "Ekosistem",
+		"description": "Sistem yang terdiri dari komunitas organisme hidup dan lingkungan fisiknya yang saling berinteraksi. Ekosistem bisa berupa hutan, padang rumput, atau lautan."
+	},
+	{
+		"name": "DNA",
+		"description": "Molekul yang membawa informasi genetik untuk perkembangan, fungsi, dan reproduksi semua makhluk hidup dan banyak virus."
+	},
+	{
+		"name": "Sel",
+		"description": "Unit struktural dan fungsional dasar dari semua makhluk hidup. Sel dapat terdiri dari berbagai jenis dan memiliki berbagai fungsi, seperti sel otot, sel saraf, dan sel darah merah."
+	},
+	{
+		"name": "Katalisator",
+		"description": "Zat yang mempercepat laju reaksi kimia tanpa ikut serta dalam reaksi tersebut secara permanen. Katalisator sering digunakan dalam industri dan proses biokimia."
+	},
+	{
+		"name": "Energi Kinetik",
+		"description": "Energi yang dimiliki oleh suatu objek karena gerakannya. Semakin cepat suatu objek bergerak, semakin besar energi kinetiknya."
+	},
+	{
+		"name": "Pankreas",
+		"description": "Organ dalam sistem pencernaan manusia yang menghasilkan enzim pencernaan dan hormon insulin, yang penting untuk regulasi kadar gula darah."
+	},
+	{
+		"name": "Mitokondria",
+		"description": "Organisasi sel yang berfungsi sebagai pusat energi, tempat di mana sebagian besar produksi ATP (adenosine triphosphate) terjadi, yang merupakan sumber energi utama bagi sel."
+	},
+	{
+		"name": "Pereaksi",
+		"description": "Substansi yang terlibat dalam reaksi kimia. Pereaksi bereaksi untuk menghasilkan produk baru dalam proses kimia."
+	},
+	{
+		"name": "Fotosfer",
+		"description": "Lapisan luar dari matahari yang memancarkan cahaya yang kita lihat. Fotosfer adalah bagian dari atmosfer matahari."
+	},
+	{
+		"name": "Osmosis",
+		"description": "Proses pergerakan air melalui membran semi-permeabel dari daerah dengan konsentrasi rendah zat terlarut ke daerah dengan konsentrasi tinggi zat terlarut."
+	},
+	{
+		"name": "Bakteri",
+		"description": "Mikroorganisme uniseluler yang dapat ditemukan di berbagai lingkungan. Beberapa bakteri bermanfaat bagi manusia, sementara yang lain bisa menyebabkan penyakit."
+	},
+	{
+		"name": "Evolusi",
+		"description": "Proses perubahan bertahap dalam spesies makhluk hidup dari generasi ke generasi yang disebabkan oleh variasi genetik dan seleksi alam."
+	},
+	{
+		"name": "Kromosom",
+		"description": "Struktur di dalam sel yang mengandung DNA dan protein. Kromosom berfungsi untuk membawa gen yang menentukan sifat-sifat organisme."
+	},
+	{
+		"name": "Isotop",
+		"description": "Varian dari suatu unsur kimia yang memiliki jumlah neutron berbeda tetapi jumlah proton yang sama. Isotop dapat bersifat stabil atau radioaktif."
+	},
+	{
+		"name": "Kloroplas",
+		"description": "Organisme sel tumbuhan yang bertanggung jawab untuk fotosintesis. Kloroplas mengandung pigmen hijau klorofil yang menyerap cahaya matahari."
+	},
+	{
+		"name": "Reaksi Kimia",
+		"description": "Proses di mana satu atau lebih zat diubah menjadi zat baru dengan sifat yang berbeda melalui pemutusan dan pembentukan ikatan kimia."
+	},
+	{
+		"name": "Plasma",
+		"description": "Meskipun sering dianggap sebagai keadaan zat, plasma adalah gas terionisasi yang terdapat di bintang dan dalam beberapa proses industri dan laboratorium."
+	},
+	{
+		"name": "Vakuola",
+		"description": "Organisme sel tumbuhan dan beberapa sel hewan yang berfungsi menyimpan berbagai zat, seperti air, nutrisi, dan produk sampingan metabolisme."
+	},
+	{
+		"name": "Pola Genetik",
+		"description": "Susunan gen dalam DNA yang mempengaruhi sifat-sifat organisme dan diwariskan dari generasi ke generasi."
+	},
+	{
+		"name": "Hormon",
+		"description": "Zat kimia yang diproduksi oleh kelenjar endokrin dan disekresikan ke dalam aliran darah untuk mengatur berbagai fungsi tubuh, termasuk pertumbuhan, metabolisme, dan reproduksi."
+	},
+	{
+		"name": "Katalisis",
+		"description": "Proses di mana laju reaksi kimia dipercepat oleh adanya katalisator tanpa mengubah katalisator itu sendiri secara permanen."
+	},
+	{
+		"name": "Replikasi",
+		"description": "Proses penggandaan DNA sebelum pembelahan sel sehingga setiap sel anak memiliki salinan lengkap dari materi genetik."
+	},
+	{
+		"name": "Sistem Saraf",
+		"description": "Jaringan yang mengontrol dan mengkoordinasikan aktivitas tubuh dengan mengirimkan sinyal antara otak, sumsum tulang belakang, dan bagian tubuh lainnya."
+	},
+	{
+		"name": "Polarisasi",
+		"description": "Fenomena di mana gelombang elektromagnetik bergetar dalam satu arah tertentu, seperti pada cahaya yang terpolarisasi."
+	},
+	{
+		"name": "Radiokarbon",
+		"description": "Isotop karbon (C-14) yang digunakan dalam penanggalan radioaktif untuk menentukan usia bahan organik dengan mengukur aktivitas radioaktifnya."
+	},
+	{
+		"name": "Simbiosis",
+		"description": "Interaksi dekat antara dua organisme berbeda yang hidup bersama, yang dapat berupa mutualisme (saling menguntungkan), komensalisme (satu diuntungkan, yang lain tidak terpengaruh), atau parasitisme (satu diuntungkan, yang lain dirugikan)."
+	},
+	{
+		"name": "Ekspresi Gen",
+		"description": "Proses di mana informasi dari gen digunakan untuk mensintesis produk gen, seperti protein, yang mempengaruhi sifat-sifat dan fungsi sel."
+	},
+	{
+		"name": "Metabolisme",
+		"description": "Kumpulan reaksi kimia dalam sel yang diperlukan untuk mempertahankan kehidupan, termasuk proses katabolisme (pemecahan molekul) dan anabolisme (pembentukan molekul)."
+	},
+	{
+		"name": "Tektonik Lempeng",
+		"description": "Teori yang menjelaskan pergerakan besar dari lempeng kerak bumi yang menyebabkan pembentukan gunung, gempa bumi, dan aktivitas vulkanik."
+	},
+	{
+		"name": "Enzim",
+		"description": "Protein yang bertindak sebagai katalisator biologis, mempercepat reaksi kimia dalam sel tanpa ikut serta dalam reaksi tersebut secara permanen."
+	},
+	{
+		"name": "Bioma",
+		"description": "Jenis ekosistem besar dengan ciri-ciri iklim dan vegetasi yang serupa, seperti hutan hujan tropis, gurun, atau tundra."
+	},
+	{
+		"name": "Hipotesis",
+		"description": "Pernyataan yang dapat diuji yang menjelaskan hubungan antara variabel yang digunakan sebagai dasar untuk percobaan ilmiah atau penelitian."
+	},
+	{
+		"name": "Klorofil",
+		"description": "Pigmen hijau yang terdapat dalam kloroplas tumbuhan dan alga, yang penting untuk proses fotosintesis dengan menyerap cahaya matahari."
+	},
+	{
+		"name": "Keanekaragaman Hayati",
+		"description": "Variasi kehidupan di Bumi, termasuk keragaman spesies, genetik, dan ekosistem, yang penting untuk kestabilan ekosistem dan kesehatan planet."
+	},
+	{
+		"name": "Isomer",
+		"description": "Senayawa kimia yang memiliki rumus molekul yang sama tetapi struktur atau tata letak atom yang berbeda, sehingga memiliki sifat kimia yang berbeda."
+	},
+	{
+		"name": "Ekologi",
+		"description": "Ilmu yang mempelajari interaksi antara organisme hidup dan lingkungan mereka, serta bagaimana faktor-faktor ini mempengaruhi distribusi dan jumlah organisme."
+	},
+	{
+		"name": "Mikroskop",
+		"description": "Perangkat optik yang digunakan untuk memperbesar objek kecil yang tidak dapat dilihat dengan mata telanjang, sering digunakan dalam penelitian biologi dan ilmu material."
+	},
+	{
+		"name": "Katalisator Enzimatik",
+		"description": "Enzim yang berfungsi sebagai katalisator dalam reaksi biokimia, mempercepat laju reaksi dengan menurunkan energi aktivasi tanpa terlibat secara permanen dalam reaksi."
+	},
+	{
+		"name": "Gen",
+		"description": "Unit pewarisan genetik yang terdapat dalam DNA dan mengkodekan informasi untuk sintesis protein, yang menentukan sifat-sifat organisme."
+	},
+	{
+		"name": "Fosil",
+		"description": "Sisa atau jejak organisme yang telah membatu dari masa lalu geologi, yang dapat memberikan informasi tentang kehidupan prasejarah dan evolusi."
+	},
+	{
+		"name": "Difusi",
+		"description": "Proses pergerakan molekul dari daerah dengan konsentrasi tinggi ke daerah dengan konsentrasi rendah sampai mencapai kesetimbangan."
+	},
+	{
+		"name": "Nukleotida",
+		"description": "Unit dasar penyusun DNA dan RNA, yang terdiri dari gula, fosfat, dan basa nitrogen. Nukleotida berfungsi sebagai bahan pembangun asam nukleat."
+	},
+	{
+		"name": "Spektrum Elektromagnetik",
+		"description": "Rentang semua frekuensi gelombang elektromagnetik, termasuk cahaya tampak, radio, sinar-X, dan gelombang mikro."
+	},
+	{
+		"name": "Hidrokarbon",
+		"description": "Senayawa organik yang hanya terdiri dari karbon dan hidrogen. Hidrokarbon dapat berupa alifatik (seperti alkana, alkena) atau aromatik."
+	},
+	{
+		"name": "Fusi Nuklir",
+		"description": "Proses di mana dua inti atom ringan bergabung untuk membentuk inti yang lebih berat, melepaskan sejumlah besar energi, seperti dalam reaksi di matahari."
+	},
+	{
+		"name": "Isotop Stabil",
+		"description": "Varian dari unsur kimia yang tidak mengalami peluruhan radioaktif dan memiliki jumlah neutron yang berbeda dari isotop lainnya."
+	},
+	{
+		"name": "Polaritas",
+		"description": "Distribusi muatan listrik dalam molekul yang mengarah pada pembentukan dipol listrik, mempengaruhi interaksi antara molekul dan sifat fisik zat."
+	},
+	{
+		"name": "Transkripsi",
+		"description": "Proses di mana informasi dari gen pada DNA disalin menjadi RNA messenger (mRNA), yang kemudian digunakan untuk sintesis protein."
+	},
+	{
+		"name": "Kromatografi",
+		"description": "Teknik pemisahan campuran zat berdasarkan perbedaan kecepatan migrasi zat melalui media stasioner dan fase bergerak."
+	},
+	{
+		"name": "Resistansi",
+		"description": "Kemampuan suatu bahan untuk menahan aliran arus listrik. Resistansi diukur dalam ohm dan dipengaruhi oleh panjang, luas penampang, dan jenis bahan."
+	},
+	{
+		"name": "Sistematika",
+		"description": "Ilmu yang mempelajari klasifikasi dan hubungan evolusi antara organisme, termasuk penamaan, pengelompokan, dan penentuan hubungan filogenetik."
+	},
+	{
+		"name": "Volatilitas",
+		"description": "Kemampuan suatu zat untuk menguap pada suhu tertentu, biasanya mengacu pada seberapa cepat suatu zat berubah dari cairan menjadi gas."
+	},
+	{
+		"name": "Teknologi Gen",
+		"description": "Bidang ilmu yang mencakup manipulasi genetik, seperti rekayasa genetik dan terapi gen, untuk tujuan penelitian atau pengobatan."
+	},
+	{
+		"name": "Adenosine Triphosphate",
+		"description": "Molekul yang berfungsi sebagai sumber energi utama untuk berbagai proses biokimia dalam sel, termasuk kontraksi otot dan sintesis protein."
+	},
+	{
+		"name": "Neutron",
+		"description": "Partikel subatomik yang tidak bermuatan listrik, ditemukan di inti atom bersama dengan proton. Neutron berkontribusi pada massa atom."
+	},
+	{
+		"name": "Konsentrasi",
+		"description": "Jumlah zat yang terlarut dalam larutan per unit volume. Tingkat konsentrasi dapat mempengaruhi laju reaksi kimia dan sifat fisik larutan."
+	},
+	{
+		"name": "Klasifikasi",
+		"description": "Proses pengelompokan organisme berdasarkan karakteristik mirip atau genetik untuk memudahkan identifikasi dan studi hubungan evolusi."
+	},
+	{
+		"name": "Sinar-X",
+		"description": "Radiasi elektromagnetik dengan energi tinggi dan panjang gelombang pendek, sering digunakan dalam medis untuk pencitraan dan analisis material."
+	},
+	{
+		"name": "Kinetika Kimia",
+		"description": "Studi tentang laju reaksi kimia dan faktor-faktor yang mempengaruhinya, termasuk konsentrasi reaktan, suhu, dan kehadiran katalisator."
+	},
+	{
+		"name": "Struktur Sekunder Protein",
+		"description": "Konformasi lokal dari rantai polipeptida dalam protein, seperti heliks alfa dan lembaran beta, yang stabil oleh ikatan hidrogen."
+	},
+	{
+		"name": "Hidrofilik",
+		"description": "Sifat suatu molekul atau kelompok yang dapat berinteraksi dengan air atau larutan berbasis air, biasanya melalui pembentukan ikatan hidrogen."
+	},
+	{
+		"name": "Plasma Sel",
+		"description": "Jenis sel darah putih yang berfungsi untuk memproduksi antibodi yang melawan patogen dan zat asing dalam tubuh."
+	},
+	{
+		"name": "Neurotransmitter",
+		"description": "Zat kimia yang digunakan oleh neuron untuk mengirimkan sinyal ke neuron lain atau ke sel otot dan kelenjar, seperti serotonin dan dopamin."
+	},
+	{
+		"name": "Katalisator Homogen",
+		"description": "Katalisator yang berada dalam fase yang sama dengan reaktan, sering digunakan dalam larutan cair untuk mempercepat reaksi kimia."
+	},
+	{
+		"name": "Epilog",
+		"description": "Bagian akhir dari sebuah studi atau penelitian yang menyimpulkan hasil dan implikasi dari penelitian tersebut."
+	},
+	{
+		"name": "Zat Terlarut",
+		"description": "Substansi yang larut dalam pelarut untuk membentuk larutan, seperti garam dalam air. Zat terlarut biasanya berada dalam konsentrasi lebih rendah dibandingkan pelarut."
+	},
+	{
+		"name": "Sumber Daya Alam",
+		"description": "Bahan-bahan yang diperoleh dari alam dan digunakan oleh manusia, termasuk mineral, air, udara, dan vegetasi, serta yang dapat diperbaharui atau tidak diperbaharui."
+	},
+	{
+		"name": "Sifat Koligatif",
+		"description": "Sifat larutan yang bergantung pada jumlah partikel terlarut, seperti penurunan titik beku dan peningkatan titik didih, bukan pada sifat kimia dari zat terlarut."
+	},
+	{
+		"name": "Efisiensi Energi",
+		"description": "Ukuran seberapa baik energi digunakan untuk menghasilkan output yang diinginkan dibandingkan dengan energi yang dikonsumsi dalam proses tersebut."
+	},
+	{
+		"name": "Eletroforesis",
+		"description": "Teknik laboratorium yang digunakan untuk memisahkan molekul berdasarkan ukuran dan muatannya dengan menggunakan medan listrik."
 	}
 ]
