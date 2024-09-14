@@ -1,7 +1,68 @@
 [
+	// ver = 1.0.1
 	{
 		"name": "Atom",
 		"description": "Partikel terkecil dari suatu unsur yang masih memiliki sifat kimia unsur tersebut. Atom terdiri dari inti yang mengandung proton dan neutron, serta elektron yang mengorbit inti."
+	},
+	{
+		"name": "Variabel",
+		"description": "Entitas atau simbol yang digunakan untuk menyimpan nilai yang dapat berubah-ubah atau berbeda dalam suatu program, eksperimen, atau penelitian."
+	},
+	{
+		"name": "Unsur",
+		"description": "Zat tunggal yang tidak dapat dibagi lagi menjadi bagian yang lebih sederhana."
+	},
+	{
+		"name": "Massa",
+		"description": "Ukuran jumlah materi yang terkandung dalam suatu benda atau sistem."
+	},
+	{
+		"name": "Percepatan",
+		"description": "Perubahan kecepatan suatu objek dalam satuan waktu tertentu."
+	},
+	{
+		"name": "Kecepatan",
+		"description": "Besaran vektor yang menunjukkan seberapa cepat suatu benda berpindah dari satu tempat ke tempat lainnya dalam waktu tertentu."
+	},
+	{
+		"name": "Gaya",
+		"description": "Besaran gaya dalam fisika adalah salah satu besaran vektor yang memiliki nilai dan arah. Gaya dapat diartikan sebagai tarikan atau dorongan yang diberikan pada suatu objek. Gaya ini dapat menyebabkan perubahan pada objek tersebut, seperti perubahan posisi, kecepatan, atau bentuk."
+	},
+	{
+		"name": "Besaran Vektor",
+		"description": "Besaran dalam fisika yang memiliki dua karakteristik utama yaitu nilai (magnitude) dan arah."
+	},
+	{
+		"name": "Zat",
+		"description": "Sesuatu yang menempati ruang dan memiliki massa."
+	},
+	{
+		"name": "Zat Padat",
+		"description": "Zat atau benda yang memiliki bentuk dan volume tetap yang tahan lama dan mudah dibentuk karena partikel-partikelnya tersusun sangat rapat dan teratur."
+	},
+	{
+		"name": "Zat Cair",
+		"description": "Zat atau benda yang memiliki volume tetap tetapi berubah bentuk tergantung tempat atau wadahnya dengan susunan partikelnya masih dalam kontak dekat, namun partikel zat cair bergerak bebas satu sama lain yang membuatnya memiliki bentuk yang berubah-ubah."
+	},
+	{
+		"name": "Zat Gas",
+		"description": "Zat atau benda yang tidak memiliki volume dan bentuk tetap, bergantung pada wadah atau ruang yang ditempatinya. Partikelnya tersusun sangat renggang dan bergerak bebas ke segala arah."
+	},
+	{
+		"name": "Volume",
+		"description": "Ukuran besarnya ruang yang ditempati oleh suatu benda atau zat."
+	},
+	{
+		"name": "Partikel",
+		"description": "Dalam ilmu fisika dan ilmu kimia, partikel atau zarah (dalam teks lama disebut korpuskula) adalah objek sangat kecil dan berdimensi, yang dapat memiliki beberapa sifat fisik atau kimia seperti volume atau massa."
+	},
+	{
+		"name": "Zarah",
+		"description": "Istilah yang merujuk pada partikel sangat kecil yang menjadi bagian dari suatu materi atau substansi."
+	},
+	{
+		"name": "Program",
+		"description": "Program merupakan suatu urutan logika dengan input dan output tertentu."
 	},
 	{
 		"name": "Molekul",
