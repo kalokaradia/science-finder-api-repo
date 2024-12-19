@@ -354,5 +354,101 @@
 	{
 		"name": "Eletroforesis",
 		"description": "Teknik laboratorium yang digunakan untuk memisahkan molekul berdasarkan ukuran dan muatannya dengan menggunakan medan listrik."
+	},
+	{
+		"name": "Api",
+		"description": "Api adalah fenomena yang dihasilkan dari pembakaran bahan yang mudah terbakar dengan oksigen, menghasilkan panas, cahaya, dan gas. Api sering digunakan untuk memasak, memanaskan, atau keperluan energi."
+	},
+	{
+		"name": "Elemen",
+		"description": "Dalam kimia, elemen adalah zat murni yang tidak dapat dipecah menjadi zat yang lebih sederhana melalui reaksi kimia. Setiap elemen terdiri dari satu jenis atom, seperti hidrogen (H), oksigen (O), atau emas (Au)."
+	},
+	{
+		"name": "Air",
+		"description": "Air adalah senyawa kimia yang terdiri dari dua atom hidrogen dan satu atom oksigen (H₂O). Air merupakan substansi penting bagi kehidupan di bumi, dalam bentuk cair, padat (es), atau gas (uap)."
+	},
+	{
+		"name": "Angin",
+		"description": "Angin adalah pergerakan udara yang terjadi karena perbedaan tekanan atmosfer. Angin sering digunakan sebagai sumber energi terbarukan melalui kincir angin."
+	},
+	{
+		"name": "Energi",
+		"description": "Energi adalah kapasitas untuk melakukan kerja atau menyebabkan perubahan. Energi bisa dalam bentuk kinetik (gerak), potensial, termal (panas), listrik, kimia, dan lainnya."
+	},
+	{
+		"name": "Panas",
+		"description": "Panas adalah bentuk energi yang ditransfer antara benda akibat perbedaan suhu. Panas berpindah dari benda yang bersuhu tinggi ke benda yang bersuhu lebih rendah."
+	},
+	{
+		"name": "Suhu",
+		"description": "Suhu adalah ukuran tingkat panas atau dinginnya suatu benda atau lingkungan. Suhu diukur menggunakan alat yang disebut termometer."
+	},
+	{
+		"name": "Celsius",
+		"description": "Skala Celsius adalah satuan untuk mengukur suhu yang berbasis pada titik beku air (0°C) dan titik didih air (100°C) pada tekanan atmosfer standar."
+	},
+	{
+		"name": "Fahrenheit",
+		"description": "Skala Fahrenheit adalah satuan suhu yang digunakan terutama di Amerika Serikat. Pada skala ini, titik beku air adalah 32°F dan titik didihnya adalah 212°F."
+	},
+	{
+		"name": "Kelvin",
+		"description": "Kelvin adalah skala suhu dalam Sistem Internasional (SI), di mana 0 K (nol absolut) adalah titik di mana semua gerakan molekul berhenti sepenuhnya. Tidak ada suhu negatif pada skala Kelvin."
+	},
+	{
+		"name": "Reamur",
+		"description": "Reamur adalah skala suhu yang jarang digunakan saat ini. Pada skala ini, titik beku air adalah 0°Ré dan titik didihnya adalah 80°Ré."
+	},
+	{
+		"name": "Termometer",
+		"description": "Termometer adalah alat yang digunakan untuk mengukur suhu. Termometer bekerja berdasarkan prinsip ekspansi termal atau perubahan sifat bahan dengan suhu."
+	},
+	{
+		"name": "Senyawa",
+		"description": "Senyawa adalah zat kimia yang terbentuk dari dua atau lebih elemen yang bergabung melalui ikatan kimia dalam rasio tertentu. Contoh: air (H₂O) dan garam (NaCl)."
+	},
+	{
+		"name": "Sperma",
+		"description": "Sperma adalah sel reproduksi pria yang mengandung setengah dari informasi genetik yang dibutuhkan untuk membentuk individu baru. Sperma bergerak dengan ekornya untuk mencapai sel telur dalam proses pembuahan."
+	},
+	{
+		"name": "Hujan",
+		"description": "Hujan adalah sebuah presipitasi berwujud cairan, berbeda dengan presipitasi noncair seperti salju, batu es dan campuran hujan dengan salju."
+	},
+	{
+		"name": "Kelajuan",
+		"description": "Kelajuan adalah besaran dalam fisika yang mengukur seberapa cepat suatu benda bergerak tanpa memperhatikan arah geraknya."
+	},
+	{
+		"name": "Galaksi",
+		"description": "Galaksi adalah sistem besar yang terdiri dari miliaran bintang, planet, gas, debu, dan materi gelap yang saling terikat oleh gaya gravitasi."
+	},
+	{
+		"name": "Bintang",
+		"description": "Bintang adalah objek langit yang memancarkan cahaya dan energi sebagai hasil dari reaksi fusi nuklir yang terjadi di inti mereka."
+	},
+	{
+		"name": "Planet",
+		"description": "Planet adalah objek langit yang mengorbit bintang dan memiliki massa cukup besar untuk berbentuk bulat, tetapi tidak cukup besar untuk menghasilkan fusi nuklir."
+	},
+	{
+		"name": "Gas",
+		"description": "Gas adalah zat yang terdiri dari partikel-partikel (molekul atau atom) yang sangat terpisah satu sama lain, bergerak bebas, dan tidak memiliki bentuk atau volume tetap."
+	},
+	{
+		"name": "Debu",
+		"description": "Debu adalah partikel-partikel kecil yang terbuat dari bahan padat. Debu ini bisa terdiri dari berbagai unsur, seperti silikon, karbon, oksigen, dan logam, serta bahan-bahan organik."
+	},
+	{
+		"name": "Materi Gelap",
+		"description": "Materi gelap adalah bentuk materi yang tidak dapat dilihat secara langsung karena tidak memancarkan, menyerap, atau memantulkan cahaya atau radiasi elektromagnetik lainnya"
+	},
+	{
+		"name": "Cahaya",
+		"description": "Gelombang elektromagnetik yang dapat dilihat oleh mata manusia, memancarkan energi dari sumber seperti Matahari atau lampu."
+	},
+	{
+		"name": "Magnet",
+		"description": "Benda yang memiliki kemampuan untuk menarik benda tertentu, seperti besi atau baja, karena adanya medan magnet."
 	}
 ]
